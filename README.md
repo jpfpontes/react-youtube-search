@@ -2,7 +2,7 @@
 
 ## Description
 Search Youtube videos using this app.
-This project uses youtube public API.
+This project uses Youtube public API.
 
 ## Usage
 
